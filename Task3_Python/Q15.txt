@@ -1,0 +1,3 @@
+How Tuple is beneficial as compared to List?
+
+Ans: Lists are mutuable which means we can modify a list object after it has been created but tuples are immutable objects. Tuples are way more faster than list.In other words, iteration is faster in tuple. On emore thing to notice is that tuples can be used with different data types but list are used for working with familiar data types.
