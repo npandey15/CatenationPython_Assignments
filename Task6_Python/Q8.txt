@@ -1,0 +1,8 @@
+Q8. Front ends developement which is also known as client side develeopment is a practices of producing HTML, CSS and Javascript for a website or web application so that a user can see and interact with them directly.
+
+5 top knothch Technologies of front end
+1. React - Uber, Airbnb, facebook
+2. Angular - Microsoft, Apple, GoPro, Google, Instagram
+3. JQuery - Udemy, Twitter, Slack, StackShare
+4. Vue.js - NASA, GitLab, Adobe, Louis Vuitton
+5. Bootstrap - Spotify, Robinhood, Lyft, LinkedIn
